@@ -3,7 +3,7 @@
 > A Vue.js project
 数据可视化
 ## 项目预览地址
-https://bym110.github.io/vue-echarts/preview
+https://mingj98111.github.io/ai_maintenance
 ## Build Setup
 
 ``` bash
